@@ -31,6 +31,7 @@ O projeto foca em entender os fatores que impulsionam o engajamento, respondendo
 3. **Análise de Tendências:** Qual o comportamento das métricas de interação quando comparamos diferentes tipos de conteúdo?
 
 ## Resultado Principal
+<div style='font-size: 10px'> <span style='font-weight: bold'> Nota metodológica: </span> O gráfico abaixo foi gerado exclusivamente com dados do formato <span style='font-weight: bold'> Foto </span>. Removemos vídeos (Reels/IGTV) desta visualização para garantir que o alcance orgânico diferenciado desses formatos não distorcesse a análise das variáveis <span style='background-color: #ffffff30'> Pessoas </span> e <span style='background-color: #ffffff30'> Campanhas </span> </div>
 
 ![Gráfico Final](grafico_final.png)
 
